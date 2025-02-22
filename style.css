@@ -16,8 +16,8 @@ html, body {
 }
 
 #gundam {
-  width: 50%;
-  height: 50%;
+  width: 400px;  /* 幅を400pxに設定 */
+  height: auto;  /* 高さは自動調整 */
 }
 
 body {
